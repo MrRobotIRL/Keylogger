@@ -6,7 +6,7 @@ A simple keylogger built in vscode for python that creates a text file and logs 
 
 I improved my original keylogger but kept the original there incase anyone wants it:
 The new ones key improvements:
-Key Improvements:
+
 
     Stealth Features:
         Hides console window on Windows
